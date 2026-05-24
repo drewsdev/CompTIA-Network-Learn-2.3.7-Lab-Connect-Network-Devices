@@ -38,9 +38,9 @@ Complete this lab as follows:
  a. Under Shelf, expand Cables.  
  b. Select Cable, Fiber, SC to LC.  
  c. From the Selected Component pane:  
-  * Drag Connector, Fiber, Duplex LC Multi-mode, Male to the SFP LC port (plugged into SFP2) on the switch.  
-  * Drag the Fiber Optic SC Connector (A) to port 3 on the fiber patch panel.  
-  * Drag the Fiber Optic SC Connector (B) to port 4 on the fiber patch panel.  
+   * Drag Connector, Fiber, Duplex LC Multi-mode, Male to the SFP LC port (plugged into SFP2) on the switch.  
+   * Drag the Fiber Optic SC Connector (A) to port 3 on the fiber patch panel.  
+   * Drag the Fiber Optic SC Connector (B) to port 4 on the fiber patch panel.  
 3. Access the networking closet on floor 2.  
  a. From the top left, select Floor 1.  
  b. Under Building A, select Floor 2.  
@@ -51,15 +51,15 @@ Complete this lab as follows:
  c. Under Shelf, expand Cables.  
  d. Select Cable, Fiber, SC to LC.  
  e. From the Selected Component pane:  
-  * Drag the Connector, Fiber, Duplex LC, Multi-mode, Male to the SFP port.  
-  * Drag the Fiber Optic SC Connector (A) to port 1 on the fiber patch panel.  
-  * Drag the Fiber Optic SC Connector (B) to port 2 on the fiber patch panel.  
+   * Drag the Connector, Fiber, Duplex LC, Multi-mode, Male to the SFP port.  
+   * Drag the Fiber Optic SC Connector (A) to port 1 on the fiber patch panel.  
+   * Drag the Fiber Optic SC Connector (B) to port 2 on the fiber patch panel.  
 5. Plug the switch on Floor 2 into a bank 1 critical load outlet on the UPS.  
  a. Above the rack, select Back to switch to the back view of the rack.  
  b. Under Shelf, select AC Power Cable.  
  c. From the Select Connector pane:  
-  * Drag AC Power Connector (Female) to the AC port on the back of the switch.  
-  * Drag the AC Power Connector (Male) to an open bank 1 critical load outlet.  
+   * Drag AC Power Connector (Female) to the AC port on the back of the switch.  
+   * Drag the AC Power Connector (Male) to an open bank 1 critical load outlet.  
  d. Above the rack, select Front to switch to the front view and confirm that the network switch has power.  
 6. Verify that there is an internet connection for any Floor 2 computer.  
  a. From the top left, select Floor 2.  
